@@ -1,0 +1,25 @@
+# UCF101 dataset
+UCF101.rar
+ucf101_dataset/
+data/
+
+# Trained model files
+*.pth
+*.pt
+*.ckpt
+
+# Checkpoints
+checkpoints/
+
+# Generated outputs
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter / Colab temporary files
+.ipynb_checkpoints/
+
+# Colab sample files
+sample_data/
